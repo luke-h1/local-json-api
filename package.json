@@ -1,0 +1,22 @@
+{
+  "name": "json-server-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luke-h1/json-server-API.git"
+  },
+  "author": "luke-h1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luke-h1/json-server-API/issues"
+  },
+  "homepage": "https://github.com/luke-h1/json-server-API#readme",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
