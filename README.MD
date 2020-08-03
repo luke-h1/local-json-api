@@ -1,4 +1,4 @@
-## Fake API Routes (http://localhost:3000):
+## test API Routes ():
   * /users 
   * /companies  
   * /db 
